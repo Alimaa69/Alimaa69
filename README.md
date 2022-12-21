@@ -1,6 +1,4 @@
-**Alimaa69/Alimaa69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+<a target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://img.freepik.com/free-vector/night-rice-field-terraces-asian-mountains-landscape-with-paddy-plantation-cascades-chinese-agricultural-farm-dark-starry-sky-with-full-moon-glowing-fireflies-cartoon-vector-illustration_107791-10584.jpg?w=2000&t=st=1671613194~exp=1671613794~hmac=006a3c97357f5d8fbc7549cce45b3d3d61bb4b7ecb7e4b0c8672477759c69f9d)" alt="" height="100" width="300" /></a>
 <h1 align="center">Hi 👋, I'm Alimaa</h1>
 <h3 align="center">A passionate developer from Zimbabwe</h3>
 
