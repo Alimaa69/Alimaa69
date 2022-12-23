@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, my name is my name is Alimaa</h1>
 <h3 align="center">Just a developer from Zimbabwe</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimaa69&label=Profile%20views&color=0e75b6&style=flat" alt="alimaa69" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimaa69" alt="alimaa69" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js**
