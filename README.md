@@ -1,6 +1,6 @@
 <img align="center" src="https://img.freepik.com/free-vector/night-rice-field-terraces-asian-mountains-landscape-with-paddy-plantation-cascades-chinese-agricultural-farm-dark-starry-sky-with-full-moon-glowing-fireflies-cartoon-vector-illustration_107791-10584.jpg?w=2000&t=st=1671613194~exp=1671613794~hmac=006a3c97357f5d8fbc7549cce45b3d3d61bb4b7ecb7e4b0c8672477759c69f9d" alt="" height="400px">
-<h1 align="center">Hi 👋, I'm Alimaa</h1>
-<h3 align="center">A passionate developer from Zimbabwe</h3>
+<h1 align="center">Hi 👋, my name is my name is Alimaa</h1>
+<h3 align="center">Just a developer from Zimbabwe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimaa69&label=Profile%20views&color=0e75b6&style=flat" alt="alimaa69" /> </p>
 
